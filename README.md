@@ -1,6 +1,6 @@
 - Hello everyone!!!
-- I’m currently studying, i'm in final year of Bachelors of Computer Applications(BCA)
-- I know C, Java, SQL, PHP, HTML, CSS .
+- I’m currently studying, i'm final year student of Master of Computer Applications(MCA)
+- I know C, Java, SQL, PHP, HTML5, CSS3, Oracle, SQL .
 - If you want to ask something, u can contact me via LinkedIn https://www.linkedin.com/in/shivani-253689213/ & Twitter https://twitter.com/catchmeeifucan0
 
 <!---
